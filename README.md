@@ -8,7 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["Screenshot of snek-multiplayer"](/assets/images/electrocat.png)
+!["Screenshot of snek-multiplayer"](/assets/images/screenshot-snake-multiplayer.png)
 
 ## Getting Started
 
